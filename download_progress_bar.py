@@ -1,3 +1,9 @@
+'''
+collect from http://code.activestate.com/recipes/576530-download-a-url-with-a-console-progress-meter/
+Create by [Trent Mick](http://code.activestate.com/recipes/users/4173505/)
+Licensed under the MIT License
+'''
+
 import os
 import sys
 import urllib
